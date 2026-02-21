@@ -1,0 +1,4 @@
+kafka-python
+nltk
+pymysql
+cryptography
